@@ -1,3 +1,4 @@
+# Send Data Through API  👋
 
 ```bash
 import requests
@@ -15,6 +16,7 @@ except:
     print("false")
 ```
 # Get Data Through API  👋
+
 ```bash
 import requests
 
